@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "operation.processing",
+      "type": "ru.netology.maskalev.configuration.OperationProperties",
+      "sourceType": "ru.netology.maskalev.configuration.OperationProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "operation.processing.sleep-milli-seconds",
+      "type": "java.lang.Integer",
+      "sourceType": "ru.netology.maskalev.configuration.OperationProperties"
+    }
+  ],
+  "hints": []
+}
